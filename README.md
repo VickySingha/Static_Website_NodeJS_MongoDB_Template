@@ -1,0 +1,2 @@
+# Static_Website_NodeJS_MongoDB_Template
+Boiler plate with connection
